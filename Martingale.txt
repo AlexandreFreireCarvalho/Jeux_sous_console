@@ -1,0 +1,40 @@
+using System;
+using System.Runtime.Remoting.Channels;
+
+namespace La_Martingale_D_Alembert
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //La Martingale D'alembert
+
+            int fonds = 100;//fonds de départ
+            int miseDeDepart;//mise de départ
+            string choixCouleur;
+            Console.WriteLine("Choisissez votre mise !");
+            int miseDejeu = Console.ReadKey()
+
+
+            /*char n = '1';
+            char r = '2';
+
+            int noire = int.Parse("n");
+            int rouge = int.Parse("r");
+
+            Random couleur = new Random();
+            int couleur2 = couleur.Next('r', 'n');
+
+            int miseSiPerte;
+            int miseSiGain;
+            string couleurChoisie;
+            string couleur2;
+
+            while (fonds > 0)
+            {
+                Console.ReadKey();
+                if (couleur = couleurChoisie);*/
+            }
+        }
+    }
+}
